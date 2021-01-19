@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.2] - 2021-01-18
+- Added strokeDashoffset to the list of animatable properties
+
 ## [1.0.1] - 2020-12-08
 - Fixed minor bugs
 
